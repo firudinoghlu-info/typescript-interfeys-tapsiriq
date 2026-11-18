@@ -1,0 +1,2 @@
+# typescript-interfeys-tapsiriq
+task
